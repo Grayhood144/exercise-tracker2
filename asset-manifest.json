@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/exercise-tracker2/static/js/main.7caf177d.js",
+    "index.html": "/exercise-tracker2/index.html",
+    "main.7caf177d.js.map": "/exercise-tracker2/static/js/main.7caf177d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7caf177d.js"
+  ]
+}
